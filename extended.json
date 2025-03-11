@@ -1,0 +1,34 @@
+{
+    "verification":"ea063525daefcbd6b6",
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Mars, Solar system",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": "$cexplorer"
+        },
+        "company": {
+            "name": "Kin LTD",
+            "addr": "Street, Number",
+            "city": "London",
+            "country": "England",
+            "company_id": "123456789",
+            "vat_id": "GB123456789"
+        },
+        "about": {
+            "me": "Kin",
+            "server": "Raspberry Pi Hosted at my Home in Mars 100MB up/down, solar energy.",
+            "company": "Kin LTD"
+        }
+    }
+}
